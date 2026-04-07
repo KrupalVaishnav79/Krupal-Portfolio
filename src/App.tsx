@@ -927,9 +927,7 @@ export default function App() {
           
           <div className="max-w-5xl mx-auto mt-12 pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4 text-[10px] text-slate-600">
             <div>© 2026 Krupal Vaishnav. All Rights Reserved.</div>
-            <div className="flex items-center gap-2">
-              Built with <Sparkles size={12} className="text-primary" /> and Passion
-            </div>
+            
           </div>
         </footer>
       </div>
