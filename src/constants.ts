@@ -38,7 +38,7 @@ export const PERSONAL_INFO = {
   email: "v.krupal01@gmail.com",
   phone: "+91 99790 31263",
   whatsapp: "919979031263", // Format: countrycode + number without '+'
-  resumeUrl: "/resume.pdf", // Path to the file in public folder
+  resumeUrl: "/Krupal_Vaishnav_Resume_v2.pdf", // Path to the file in public folder
   location: "Gandhinagar, Gujarat",
   linkedin: "https://linkedin.com/in/krupal-vaishnav",
   github: "https://github.com", // Placeholder
